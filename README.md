@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CemMeric26
 - 👀 I’m interested in sports and cinema.
-- 🌱 I’m currently learning pyhton and c programming languages
-- 💞️ I’m looking to collaborate on ??
+- 🌱 I’m currently learning pyhton and c programming languages.
+- ✨ I want to work on some projects besides my university homeworks.
 - 📫 How to reach me samipasazade3141@gmail.com
 
 <!---
