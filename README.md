@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CemMeric26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 
-<img src="https://imgflip.com/i/79aebg" width="512px"/>
+<img src="https://imgflip.com/memetemplate/364587392/Sad-Ryan-Gosling" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CemMeric26&icon=5&color=3)](https://visitcount.itsvg.in)
